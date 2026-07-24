@@ -10,7 +10,7 @@ window.CERTIFICADOS = [
     "estado": "VIGENTE",
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
-    "pdf": ""
+    "pdf": "pdf/IC-002201.pdf"
   },
   {
     "codigo": "IC-002202",
@@ -23,7 +23,7 @@ window.CERTIFICADOS = [
     "estado": "VIGENTE",
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
-    "pdf": ""
+    "pdf": "pdf/IC-002202.pdf"
   },
   {
     "codigo": "IC-002203",
@@ -36,7 +36,7 @@ window.CERTIFICADOS = [
     "estado": "VIGENTE",
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
-    "pdf": ""
+    "pdf": "pdf/IC-002203.pdf"
   },
   {
     "codigo": "IC-002204",
@@ -49,7 +49,7 @@ window.CERTIFICADOS = [
     "estado": "VIGENTE",
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
-    "pdf": ""
+    "pdf": "pdf/IC-002204.pdf"
   },
   {
     "codigo": "IC-002205",
@@ -62,7 +62,7 @@ window.CERTIFICADOS = [
     "estado": "VIGENTE",
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
-    "pdf": ""
+    "pdf": "pdf/IC-002205.pdf"
   },
   {
     "codigo": "IC-002206",
@@ -75,7 +75,7 @@ window.CERTIFICADOS = [
     "estado": "VIGENTE",
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
-    "pdf": ""
+    "pdf": "pdf/IC-002206.pdf"
   },
   {
     "codigo": "IC-002207",
@@ -88,7 +88,7 @@ window.CERTIFICADOS = [
     "estado": "VIGENTE",
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
-    "pdf": ""
+    "pdf": "pdf/IC-002207.pdf"
   },
   {
     "codigo": "IC-002208",
@@ -101,7 +101,7 @@ window.CERTIFICADOS = [
     "estado": "VIGENTE",
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
-    "pdf": ""
+    "pdf": "pdf/IC-002208.pdf"
   },
   {
     "codigo": "IC-002209",
@@ -114,7 +114,7 @@ window.CERTIFICADOS = [
     "estado": "VIGENTE",
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
-    "pdf": ""
+    "pdf": "pdf/IC-002209.pdf"
   },
   {
     "codigo": "IC-002210",
@@ -127,7 +127,7 @@ window.CERTIFICADOS = [
     "estado": "VIGENTE",
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
-    "pdf": ""
+    "pdf": "pdf/IC-002210.pdf"
   },
   {
     "codigo": "IC-002211",
@@ -140,7 +140,7 @@ window.CERTIFICADOS = [
     "estado": "VIGENTE",
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
-    "pdf": ""
+    "pdf": "pdf/IC-002211.pdf"
   },
   {
     "codigo": "IC-002212",
@@ -153,7 +153,7 @@ window.CERTIFICADOS = [
     "estado": "VIGENTE",
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
-    "pdf": ""
+    "pdf": "pdf/IC-002212.pdf"
   },
   {
     "codigo": "IC-002213",
@@ -166,7 +166,7 @@ window.CERTIFICADOS = [
     "estado": "VIGENTE",
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
-    "pdf": ""
+    "pdf": "pdf/IC-002213.pdf"
   },
   {
     "codigo": "IC-002214",
@@ -179,7 +179,7 @@ window.CERTIFICADOS = [
     "estado": "VIGENTE",
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
-    "pdf": ""
+    "pdf": "pdf/IC-002214.pdf"
   },
   {
     "codigo": "IC-002215",
@@ -192,7 +192,7 @@ window.CERTIFICADOS = [
     "estado": "VIGENTE",
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
-    "pdf": ""
+    "pdf": "pdf/IC-002215.pdf"
   },
   {
     "codigo": "IC-002216",
@@ -205,6 +205,6 @@ window.CERTIFICADOS = [
     "estado": "VIGENTE",
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
-    "pdf": ""
+    "pdf": "pdf/IC-002216.pdf"
   }
 ];
