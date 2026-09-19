@@ -206,5 +206,84 @@ window.CERTIFICADOS = [
     "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
     "instructor": "Ing. (B) José Garrido",
     "pdf": "pdf/IC-002216.pdf"
-  }
+  },
+  {
+  "codigo": "IC-002217",
+  "nombre": "DARWIN BREILER SANDOVAL TIMANÁ",
+  "dni": "47299385",
+  "curso": "Seguridad para Trabajos en Altura",
+  "horas": "08 horas académicas",
+  "emision": "Setiembre de 2026",
+  "vencimiento": "Setiembre de 2027",
+  "estado": "VIGENTE",
+  "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
+  "instructor": "Ing. (B) José Garrido",
+  "pdf": "pdf/IC-002217.pdf"
+},
+{
+  "codigo": "IC-002218",
+  "nombre": "DARWIN BREILER SANDOVAL TIMANÁ",
+  "dni": "47299385",
+  "curso": "Seguridad para Trabajos en Caliente",
+  "horas": "08 horas académicas",
+  "emision": "Setiembre de 2026",
+  "vencimiento": "Setiembre de 2027",
+  "estado": "VIGENTE",
+  "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
+  "instructor": "Ing. (B) José Garrido",
+  "pdf": "pdf/IC-002218.pdf"
+},
+{
+  "codigo": "IC-002219",
+  "nombre": "FREDY RICHARD NIZAMA YARLEQUÉ",
+  "dni": "40631625",
+  "curso": "Seguridad para Trabajos en Altura",
+  "horas": "08 horas académicas",
+  "emision": "Setiembre de 2026",
+  "vencimiento": "Setiembre de 2027",
+  "estado": "VIGENTE",
+  "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
+  "instructor": "Ing. (B) José Garrido",
+  "pdf": "pdf/IC-002219.pdf"
+},
+{
+  "codigo": "IC-002220",
+  "nombre": "FREDY RICHARD NIZAMA YARLEQUÉ",
+  "dni": "40631625",
+  "curso": "Seguridad para Trabajos en Caliente",
+  "horas": "08 horas académicas",
+  "emision": "Setiembre de 2026",
+  "vencimiento": "Setiembre de 2027",
+  "estado": "VIGENTE",
+  "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
+  "instructor": "Ing. (B) José Garrido",
+  "pdf": "pdf/IC-002220.pdf"
+},
+{
+  "codigo": "IC-002221",
+  "nombre": "CESAR AUGUSTO MORE SALAS",
+  "dni": "08174251",
+  "curso": "Seguridad para Trabajos en Altura",
+  "horas": "08 horas académicas",
+  "emision": "Setiembre de 2026",
+  "vencimiento": "Setiembre de 2027",
+  "estado": "VIGENTE",
+  "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
+  "instructor": "Ing. (B) José Garrido",
+  "pdf": "pdf/IC-002221.pdf"
+},
+{
+  "codigo": "IC-002222",
+  "nombre": "CESAR AUGUSTO MORE SALAS",
+  "dni": "08174251",
+  "curso": "Seguridad para Trabajos en Caliente",
+  "horas": "08 horas académicas",
+  "emision": "Setiembre de 2026",
+  "vencimiento": "Setiembre de 2027",
+  "estado": "VIGENTE",
+  "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
+  "instructor": "Ing. (B) José Garrido",
+  "pdf": "pdf/IC-002222.pdf"
+}
 ];
+
