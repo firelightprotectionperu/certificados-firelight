@@ -440,5 +440,19 @@ window.CERTIFICADOS = [
   "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
   "instructor": "Ing. (B) José Garrido",
   "pdf": "IC-002234.pdf"
+},
+{
+  "codigo": "IC-002235",
+  "nombre": "JUAN ENRIQUE JULINHO GAMERO RAMIREZ",
+  "dni": "76286884",
+  "curso": "Seguridad para Trabajos en Altura",
+  "horas": "08 horas académicas",
+  "emision": "Setiembre de 2026",
+  "vencimiento": "Setiembre de 2027",
+  "estado": "VIGENTE",
+  "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
+  "instructor": "Ing. (B) José Garrido",
+  "pdf": "IC-002235.pdf"
 }
 ];
+
