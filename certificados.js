@@ -453,8 +453,8 @@ window.CERTIFICADOS = [
   "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
   "instructor": "Ing. (B) José Garrido",
   "pdf": "IC-002235.pdf"
-}
-  {
+},
+{
   "codigo": "IC-002236",
   "nombre": "ADDERLIN REGNER SANCHO MENDOZA",
   "dni": "70083597",
