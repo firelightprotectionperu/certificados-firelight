@@ -454,5 +454,70 @@ window.CERTIFICADOS = [
   "instructor": "Ing. (B) José Garrido",
   "pdf": "IC-002235.pdf"
 }
+  {
+  "codigo": "IC-002236",
+  "nombre": "ADDERLIN REGNER SANCHO MENDOZA",
+  "dni": "70083597",
+  "curso": "Seguridad para Trabajos en Caliente",
+  "horas": "08 horas académicas",
+  "emision": "Octubre de 2026",
+  "vencimiento": "Octubre de 2027",
+  "estado": "VIGENTE",
+  "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
+  "instructor": "Ing. (B) José Garrido",
+  "pdf": "IC-002236.pdf"
+},
+{
+  "codigo": "IC-002237",
+  "nombre": "ADDERLIN REGNER SANCHO MENDOZA",
+  "dni": "70083597",
+  "curso": "Seguridad para Trabajos en Altura",
+  "horas": "08 horas académicas",
+  "emision": "Octubre de 2026",
+  "vencimiento": "Octubre de 2027",
+  "estado": "VIGENTE",
+  "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
+  "instructor": "Ing. (B) José Garrido",
+  "pdf": "IC-002237.pdf"
+},
+{
+  "codigo": "IC-002238",
+  "nombre": "BENJAMÍN CRUZ HUAMAN",
+  "dni": "03238889",
+  "curso": "Seguridad en Izaje de Cargas",
+  "horas": "08 horas académicas",
+  "emision": "Octubre de 2026",
+  "vencimiento": "Octubre de 2027",
+  "estado": "VIGENTE",
+  "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
+  "instructor": "Ing. (B) José Garrido",
+  "pdf": "IC-002238.pdf"
+},
+{
+  "codigo": "IC-002239",
+  "nombre": "BENJAMÍN CRUZ HUAMAN",
+  "dni": "03238889",
+  "curso": "Seguridad para Trabajos en Altura",
+  "horas": "08 horas académicas",
+  "emision": "Octubre de 2026",
+  "vencimiento": "Octubre de 2027",
+  "estado": "VIGENTE",
+  "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
+  "instructor": "Ing. (B) José Garrido",
+  "pdf": "IC-002239.pdf"
+},
+{
+  "codigo": "IC-002240",
+  "nombre": "BENJAMÍN CRUZ HUAMAN",
+  "dni": "03238889",
+  "curso": "Seguridad para Trabajos en Caliente",
+  "horas": "08 horas académicas",
+  "emision": "Octubre de 2026",
+  "vencimiento": "Octubre de 2027",
+  "estado": "VIGENTE",
+  "empresa": "FIRELIGHT PROTECTION E.I.R.L.",
+  "instructor": "Ing. (B) José Garrido",
+  "pdf": "IC-002240.pdf"
+}
 ];
 
